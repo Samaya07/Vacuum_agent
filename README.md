@@ -11,6 +11,8 @@ The peformance score in the output shows that this agent is indeed irrational.
 b. Design a reflex agent with state for such an environment.
 
 2.11 Consider a modified version of the vacuum environment in Exercise 2.8, in which the geography of the environment—its extent, boundaries, and obstacles—is unknown, as is the initial dirt configuration. (The agent can go Up and Down as well as Left and Right).
+b. Design a simple reflex agent with randomized agent funtion for this environment.
+As we can see in the output, since it is just a simple reflex agent with randomized agent function and doesnt have a bump sensor, it bumps into an obstacle.
 
 2.12. Repeat Exercise 2.11 for the case in which the location sensor is replaced with a “bump” sensor that detects the agent’s attempts to move into an obstacle or to cross the boundaries of the environment. Suppose the bump sensor stops working; how should the agent behave?
 b. Design a simple reflex agent with randomized agent function and measure its performance on several environments.
